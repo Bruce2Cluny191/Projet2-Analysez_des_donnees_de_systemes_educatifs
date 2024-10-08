@@ -20,9 +20,9 @@ Réaliser une analyse exploratoire des données de la Banque mondiale pour :
 - **Conclusions** : La Chine se distingue par sa population cible élevée, et l'interpolation est utile pour les pays avec des données manquantes.
 
 ## Structure du Dépôt
-- `Projet+Python_Dataset_Edstats_csv.zip`: Contient les jeux de données téléchargés de la Banque mondiale.
-- `Pham-Van_Yann_1_notebook_32023.ipynb`: Contient le notebook Jupyter utilisé pour l'analyse.
-- `Pham-Van_Yann_2_presentation_32023.pdf`: Contient la présentation pour la soutenance.
+- [Projet+Python_Dataset_Edstats_csv.zip](https://github.com/Bruce2Cluny191/Projet2-Analysez_des_donnees_de_systemes_educatifs/blob/main/Pham-Van_Yann_1_notebook_32023.ipynb) : Contient les jeux de données téléchargés de la Banque mondiale.
+- [Pham-Van_Yann_1_notebook_32023.ipynb](https://github.com/Bruce2Cluny191/Projet2-Analysez_des_donnees_de_systemes_educatifs/blob/main/Pham-Van_Yann_1_notebook_32023.ipynb) : Contient le notebook Jupyter utilisé pour l'analyse.
+- [Pham-Van_Yann_2_presentation_32023.pdf](https://github.com/Bruce2Cluny191/Projet2-Analysez_des_donnees_de_systemes_educatifs/blob/main/Pham-Van_Yann_2_presentation_32023.pdf) : Contient la présentation pour la soutenance.
 
 ## Contribution
 Pour contribuer, veuillez soumettre une pull request avec une description claire des modifications proposées.
