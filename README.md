@@ -1,5 +1,7 @@
 # Projet d'Expansion Internationale de Academy
 
+<img src="https://user.oc-static.com/upload/2019/02/23/15509409025066_Capture%20d%E2%80%99e%CC%81cran%202019-02-15%20a%CC%80%2011.59.10.png" />
+
 ## Contexte
 Academy est une start-up EdTech qui propose des contenus de formation en ligne pour les lycéens et les universitaires. Dans le cadre de son projet d'expansion internationale, l'entreprise souhaite identifier les marchés potentiels à l'étranger.
 
